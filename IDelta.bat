@@ -12,7 +12,7 @@ set file=XRay.jar
 :: Location for %file% to be moved
 set injectLocation=%appdata%\.minecraft\mods\XRay.jar
 
-:: Delay between %checkFor% deletion and %file% injection
+:: Delay between %checkFor% deletion and %file% xc
 :: (change it depending on your download speed & launcher speed)
 set waitDelay=2
 
